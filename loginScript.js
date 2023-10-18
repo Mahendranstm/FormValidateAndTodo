@@ -36,7 +36,7 @@ const validateInputs = () => {
   }
 
   if (allFieldisValidate) {
-    window.location.href = "file:///D:/Task/FormValidation/ToDo/todo.html";
+    window.location.href = "todo.html";
   }
 };
 
