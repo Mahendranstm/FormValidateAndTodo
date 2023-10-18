@@ -66,7 +66,7 @@ const validateInputs = () => {
   }
 
   if (allFieldisValidate) {
-    window.location.href = "file:///D:/Task/FormValidation/Login/login.html";
+    window.location.href = "/Login/login.html";
   }
 };
 
